@@ -1,0 +1,68 @@
+[{
+	"label": "Node Label",
+	"items": [{
+		"label": "1 Child Node Label",
+		"items": [{
+			"label": "1.1 Child Node Label",
+			"items": [{
+				"label": "1.1.1 Child Node Label",
+				"items": [
+
+				]
+			}, {
+				"label": "1.1.2 Child Node Label"
+			}, {
+				"label": "1.1.3 Leaf Node Label"
+			}]
+		}]
+	}, {
+		"label": "2 Leaf Node Label"
+	}, {
+		"label": "3 Leaf Node Label",
+		"items": [{
+			"label": "3.1 Child Node Label",
+			"items": [{
+				"label": "3.1.1 Child Node Label",
+				"items": [
+
+				]
+			}, {
+				"label": "3.1.2 Child Node Label"
+			}, {
+				"label": "3.1.3 Leaf Node Label"
+			}]
+		}, {
+			"label": "3.2 Child Node Label",
+			"items": [{
+				"label": "3.2.1 Child Node Label",
+				"items": [{
+					"label": "3.2.1.1 last"
+				}]
+			}, {
+				"label": "3.2.2 Child Node Label"
+			}, {
+				"label": "3.2.3 Leaf Node Label"
+			}]
+		}]
+	}]
+}, {
+	"label": "Node Label",
+	"items": [{
+		"label": "Child Node Label",
+		"items": [{
+			"label": "Child Node Label",
+			"items": [{
+				"label": "Child Node Label",
+				"items": [
+
+				]
+			}, {
+				"label": "Child Node Label"
+			}, {
+				"label": "Leaf Node Label"
+			}]
+		}]
+	}, {
+		"label": "Leaf Node Label"
+	}]
+}]
